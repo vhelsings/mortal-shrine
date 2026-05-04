@@ -7,7 +7,7 @@
 
 ## About
 
-**Mortal Shrine** is a personal fan/profile page built in the spirit of early-2000s internet culture — think GeoCities, fan webrings, and sites best viewed at 800×600 in Internet Explorer 6. It's themed around the **Mortal Kombat 4 / Deadly Alliance era** and designed to feel like a relic of that golden age of handcrafted web pages.
+**Mortal Shrine** is a personal fan/profile page built in the spirit of early-2000s internet culture — think GeoCities, fan webrings, and sites best viewed at 800×600 in Internet Explorer 6. It's themed around the **Mortal Kombat Armageddon / Deadly Alliance era** and designed to feel like a relic of that golden age of handcrafted web pages.
 
 It's intentionally simple: pure **HTML and CSS**, no JavaScript, no frameworks, no build tools. Just a file you open in a browser.
 
@@ -68,7 +68,7 @@ Replace it with:
 
 - Your name, age, location, mood, and "online since" date
 - The stat bars (health, power, speed) — pure CSS widths, just change the `%`
-- The visitor counter number (it's hardcoded, very authentic)
+- The visitor counter number (it's hardcoded, very authentic, very evil, very nice)
 - The favorites table entries
 - The marquee text
 - Your AIM screen name in the footer (RIP AIM)
@@ -82,7 +82,7 @@ This project was built with help from **[Claude](https://claude.ai)** (claude.ai
 
 I think being upfront about AI assistance in creative/coding projects is the right call. Claude handled the scaffolding and a lot of the CSS detail work (color variables, the table layout, the health bars, the gothic styling). The content, the choices, and whatever personality this page has are mine.
 
-If you want to build something similar, [Claude](https://claude.ai) is genuinely good at this kind of specific, vibes-driven frontend work. Describe the aesthetic clearly and it'll get you most of the way there.
+If you want to build something similar, [Claude](https://claude.ai) is genuinely good at this kind of specific, vibes-driven frontend work. Describe the aesthetic clearly and it'll get you most of the way there. It may take a bit of "prompt engineering", but, from my attempts, Claude provides a better output.
 
 ---
 
@@ -95,7 +95,3 @@ Designed to look good on modern browsers while *feeling* like it was made for ol
 ## License
 
 Do whatever you want with this. It's a fan page. Mortal Kombat belongs to WB Games / NetherRealm Studios. This is just a tribute.
-
----
-
-*Kombat tested. Outworld approved.*
