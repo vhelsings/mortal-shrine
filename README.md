@@ -4,6 +4,7 @@
 > *"There is no knowledge that is not power."* — Shang Tsung
 
 ---
+![Mortal Shrine screenshot](screenshot.png)
 
 ## About
 
